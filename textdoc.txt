@@ -1,4 +1,6 @@
 select * from a
 
 update a
-set  a = b
+set  a = c
+
+delete from a
