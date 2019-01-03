@@ -1,1 +1,4 @@
 select * from a
+
+update a
+set  a = b
